@@ -1,0 +1,5 @@
+﻿  moc PhoneBook.h
+  PhoneBook.cpp
+  main.cpp
+  moc_PhoneBook.cpp
+  PhoneBook.vcxproj -> C:\Users\Lemi\source\repos\PhoneBook\x64\Debug\PhoneBook.exe
